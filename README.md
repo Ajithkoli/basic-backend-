@@ -1,4 +1,4 @@
-##Backend Setup Starter
+Backend Setup Starter
 This repository contains the basic backend setup using Node.js, Express.js, and EJS as the templating engine.
 
 📁 Project Structure
